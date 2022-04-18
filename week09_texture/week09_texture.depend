@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1650270994 source:c:\users\jim35\onedrive\орн▒\week09_texture\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+
+1645449112 c:\mcu\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1645449112 c:\mcu\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
